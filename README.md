@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 # 🌱 About Me
 My major is in AI Robot Engineering. Good to see you!!<br>
 
@@ -40,3 +41,4 @@ My major is in AI Robot Engineering. Good to see you!!<br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/3D Cad-000000?style=flat-square&logo=Autodesk&logoColor=white"/> 
+</div>
