@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+
 # 🌱 About Me
 My major is in AI Robot Engineering. Good to see you!!<br>
 
