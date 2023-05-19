@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🌱 About Me
-My major is in AI Robot Engineering. Good to see you!<br>
+My major is in AI Robot Engineering. Good to see you!!<br>
 
 <a href="https://1stapplepie.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://www.instagram.com/nb7o2/" target="_blank"><img src="https://img.shields.io/badge/nb702-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
