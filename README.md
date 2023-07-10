@@ -44,9 +44,9 @@ My major is in AI Robot Engineering. Good to see you!!<br>
 <img src="https://img.shields.io/badge/Inventor-000000?style=flat-square&logo=Autodesk&logoColor=white"/> 
   
 <hr>
-  
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1stApplePie&show_icons=true&theme=tokyonight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1stApplePie&layout=compact&theme=tokyonight)
-  
 ![snake gif](https://github.com/1stApplePie/1stApplePie/blob/output/github-contribution-grid-snake.svg)
 </div>
+-->
